@@ -1,4 +1,4 @@
-lackline-Buddy-Android-App
+Slackline-Buddy-Android-App
 ===========================
 
 Final project for Mobile Application Development class (April 2014)
