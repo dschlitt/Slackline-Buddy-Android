@@ -1,0 +1,4 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/videoLink" android:titleCondensed="@string/videoLinkShort" android:title="@string/videolink" android:showAsAction="ifRoom" android:icon="@drawable/ic_action_play"></item>
+   
+    </menu>

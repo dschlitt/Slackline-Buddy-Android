@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Slackline Buddy</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="calibrate">Calibrate</string>
+    <string name="howTo">How To!</string>
+    <string name="learn">Learn how to Slackline</string>
+    <string name="tips">Slackline Tips</string>
+    <string name="title_activity_how_to">HowTo</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_how_to_main">HowToMain</string>
+    <string name="title_activity_how_to_landing_page">SlackLine Buddy How To!</string>
+    <string name="videolink">Video Tutorial</string>
+    <string name="videoLinkShort">Video!</string>
+
+</resources>
